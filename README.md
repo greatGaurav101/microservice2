@@ -98,10 +98,3 @@ Client Request
 
 - **branch1** (default) - Main development branch
 
-## License
-
-This is a demo project for learning Spring Boot and microservices architecture.
-
----
-
-For more information, visit the [GitHub repository](https://github.com/greatGaurav101/microservice2).
